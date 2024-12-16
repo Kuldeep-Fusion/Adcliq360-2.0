@@ -1,0 +1,29 @@
+.title{
+    
+        font-size: 8.5rem;
+        line-height: 200px;
+        color: transparent;
+        margin: 4rem;
+        -webkit-text-stroke: 3px rgb(255, 255, 255);
+        filter: drop-shadow(white 1.5rem 1.5rem 7px);
+    
+}
+.title2{
+    
+        font-size: 3rem;
+        margin-top: -8rem;
+        font-weight: 600;
+        margin-left: 5.8rem;
+        position: relative;
+        z-index: 2;
+        color: #F5760C;
+    
+}
+.pera{
+    
+        width: 50%;
+        margin-left: 7rem;
+        color: #fff;
+        font-size: 1.2rem;
+    
+}

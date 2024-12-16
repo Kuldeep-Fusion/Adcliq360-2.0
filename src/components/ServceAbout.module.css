@@ -1,0 +1,31 @@
+.about {
+    margin: 5rem auto;
+    color: #fff;
+}
+.left {
+    width: 40%;
+    text-align: right;
+    line-height: 4rem;
+}
+.left p{
+
+        font-size: 1.8rem;
+        font-family: "Caveat", cursive !important;
+        font-weight: 400 !important;
+        font-style: italic;
+}
+
+.right {
+
+    line-height: 3rem;
+    text-align: left;
+}
+
+.right p{
+        font-size: 1.2rem;
+        border: 2px solid white;
+        padding: 0 1.2rem;
+        border-radius: 1rem 0 1rem 0;
+        width: max-content;
+        margin: 0.8rem;
+    }
